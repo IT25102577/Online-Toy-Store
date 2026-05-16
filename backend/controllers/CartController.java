@@ -13,18 +13,18 @@ import jakarta.servlet.http.HttpSession;
 import java.util.HashMap;
 import java.util.Map;
 
-@Controller  
+@Controller  // API Connection
 public class CartController {
 
     private final CartService cartService;
-    private final ToyService toyService;  //Composition
+    private final ToyService toyService;  
 
     public CartController(CartService cartService, ToyService toyService) {
         this.cartService = cartService;
         this.toyService = toyService;
     }
 
-    // UI PAGE 
+    // UI PAGE
 
     @GetMapping("/cart")
     public String viewCart(HttpSession session, Model model) {
