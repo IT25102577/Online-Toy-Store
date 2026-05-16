@@ -20,7 +20,7 @@ public class OrderController {
         this.orderService = orderService;
     }
 
-    //UI PAGES 
+    //  UI PAGES 
 
     @GetMapping("/orders")
     public String orderHistory(HttpSession session, Model model) {
