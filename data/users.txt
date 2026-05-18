@@ -1,0 +1,13 @@
+1|admin|admin123|admin@toystore.com|System Administrator|ADMIN|true
+2|john123|pass123|john123@gmail.com|John Smith|CUSTOMER|true
+3|jane_doe|pass456|jane_doe@gmail.com|Jane Doe|CUSTOMER|true
+4|bobby_2000|bobby123|bobby2000@gmail.com|Bobby Brown|CUSTOMER|true
+5|sarah_w|sarah123|sarah_w@gmail.com|Sarah Wilson|CUSTOMER|true
+6|mike_t|mike123|mike_t@gmail.com|Mike Taylor|CUSTOMER|true
+7|sani123|pass245|sani123@gmail.com|Lavindu Perera|CUSTOMER|true
+8|shenal|shenal|shenal@gmail.com|Shenal Shenal|CUSTOMER|true
+9|monsterR|abc312|monsterRandunu@gmail.com|Randunu Weerasiri|CUSTOMER|true
+10|henal|randunu|henal@gmail.com|Henal Randunu|CUSTOMER|true
+11|nethindu|nethindu123|nethindu@gmail.com|Nethindu Himath|CUSTOMER|true
+12|himath|himath|himath@gmail.com|Himath Perera|CUSTOMER|true
+13|sachin|sachin|sachin@gmail.com|hachin|CUSTOMER|true
