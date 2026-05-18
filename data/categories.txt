@@ -1,0 +1,5 @@
+2|Electronic Toys|Battery-powered and interactive toys||2,4,5,7
+3|Educational Toys|Toys that help kids learn||3,4,6
+5|Vehicles|Cars, trucks, and other vehicles||4,8,10
+6|Puzzles|Brain-teasing puzzles and games||4
+8|musical toys|plays music|https://baybee.co.in/cdn/shop/files/71W0Cu1jUBL_1400x.jpg?v=1772023286|4
