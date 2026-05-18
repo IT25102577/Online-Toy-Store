@@ -1,0 +1,7 @@
+1|Teddy Bear|Stuffed|2999.99|41|Soft and cuddly teddy bear|SOFT|https://m.media-amazon.com/images/I/41ZRT2a7kHL._AC_UF1000,1000_QL80_DpWeblab_.jpg
+2|Remote Control Car|Electronic|2499.99|23|Fast RC car with rechargeable battery|ELECTRONIC|https://images-cdn.ubuy.co.in/6404e45a16e73a355d0140a5-powerextra-remote-control-car-toys-36.jpg
+3|LEGO Castle|Educational|3199.99|13|500-piece LEGO set|SOFT|https://m.media-amazon.com/images/I/91K6f0PVY+L._AC_UF1000,1000_QL80_.jpg
+4|Barbie Doll|Dolls|999.9|40|Fashion Barbie with accessories|SOFT|https://m.media-amazon.com/images/I/91h3R0s3msL.jpg
+5|Video Game Console|Electronic|4499.99|9|Next-gen gaming console|ELECTRONIC|https://m.media-amazon.com/images/I/41vF2GZHraL.jpg
+6|Jigsaw Puzzle|Educational|499.99|59|1000-piece animal puzzle|SOFT|https://funblast.in/cdn/shop/files/81gUzs0PtcS._SL1500.jpg?v=1692690359
+7|toy phone|electronic|799.99|10|this is electronic toy|ELECTRONIC|https://m.media-amazon.com/images/I/519tq3DujxL._AC_UF1000,1000_QL80_.jpg
