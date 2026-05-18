@@ -1,0 +1,10 @@
+1|1|3|Jane Doe|5|Best teddy bear ever! My daughter loves it.|2024-01-18 09:30:00|APPROVED|true
+2|2|4|John Smith|4|Fast car but battery drains quickly.|2024-01-22 14:15:00|APPROVED|true
+3|3|5|Sarah Wilson|5|My son spent hours building this castle.|2024-01-28 11:45:00|APPROVED|true
+4|1|6|Mike Taylor|3|Decent bear but a bit small.|2024-02-03 16:20:00|APPROVED|false
+5|4|2|Bobby Brown|5|Great gift for my niece!|2024-02-06 10:00:00|APPROVED|true
+6|5|3|Jane Doe|4|Console works great, controller is comfortable.|2024-02-08 19:30:00|APPROVED|true
+7|1|7|Lavindu Perera|4|A really cute teddy bear . loved the packaging too|2026-04-17 14:48:09|APPROVED|false
+8|4|10|Randunu Weerasiri|4|i bought it and nice to my daughter|2026-05-18 12:11:15|APPROVED|true
+9|5|10|Randunu Weerasiri|4|hfakjnda|2026-05-18 13:46:18|REJECTED|true
+10|2|13|lakshi disanayaka|4|worthy|2026-05-18 15:16:21|APPROVED|true
